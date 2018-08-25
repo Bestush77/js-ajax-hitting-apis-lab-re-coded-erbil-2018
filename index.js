@@ -22,4 +22,4 @@ function getRepositories() {
 
 
 function getCommits(){}
-function showCommits(){}
+function displayCommits(){}
